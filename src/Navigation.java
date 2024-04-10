@@ -1,5 +1,3 @@
-package Navigation;
-
 public class Navigation {
        class Node{
            String url;
